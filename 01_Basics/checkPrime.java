@@ -1,3 +1,4 @@
+//just finding whether the number is prime or not
 class Solution {
     public boolean isPrime(int n) {
         if (n <= 1) {
