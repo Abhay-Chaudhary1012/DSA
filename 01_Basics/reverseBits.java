@@ -1,4 +1,4 @@
-public class Solution {
+public class reverseBits {
     public int reverseBits(int n) {
         int result = 0;
 
